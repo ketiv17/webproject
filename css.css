@@ -8,6 +8,7 @@ body
         url(
             ./images/background.jpg
         );
+        /* this image is not mine, source: https://wallpapers.com/wallpapers/minecraft-pc-island-4y46mfy9kuewd9ml.html */
     background-position: center top;
     background-repeat: no-repeat;
     background-color: black;
